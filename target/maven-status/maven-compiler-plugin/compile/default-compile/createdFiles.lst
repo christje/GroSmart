@@ -1,0 +1,16 @@
+entity\ShoppingList_.class
+controller\GroupController.class
+entity\Bill_.class
+controller\UserController.class
+entity\GroUser_.class
+entity\Product_.class
+entity\Bill.class
+controller\ProductController.class
+entity\Group.class
+entity\Product.class
+entity\ListItem_.class
+entity\GroUser.class
+entity\ShoppingList.class
+controller\BillController.class
+entity\Group_.class
+entity\ListItem.class
